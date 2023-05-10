@@ -15,7 +15,7 @@ and ...
 ## Also, here you can watch several screenshots of the running project.
 
 <p align="center">
-  <h3 align="center">#### Front Page</h3>
+  <h3 align="center">Front Page</h3>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ and ...
 </p>
 
 <p align="center">
-  <h3 align="center">#### Menu</h3>
+  <h3 align="center">Menu</h3>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ and ...
 </p>
 
 <p align="center">
-  <h3 align="center">#### Profile</h3>
+  <h3 align="center">Profile</h3>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ and ...
 </p>
 
 <p align="center">
-  <h3 align="center">#### Checkout</h3>
+  <h3 align="center">Checkout</h3>
 </p>
 
 <p align="center">
